@@ -1,0 +1,94 @@
+#logo{ width: 150px;}
+
+
+
+
+
+form div{
+    margin-bottom: 20px;
+}
+
+form textarea{
+    width: 200px;
+    height: 150px;
+}
+
+header, footer { background-color: #453e3e;  color:  #00DFC0;
+    
+}
+header a {color: #00DFC0 ;}
+
+body { font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0}
+    
+
+.headers{
+    font-weight: bold;
+    text-align: center;
+    font-size: xx-large;
+    
+    
+}
+
+p{
+    font-size: 18px;
+}
+
+.title{
+    color: #453e3e; 
+    text-align: center;
+font-weight: bold;
+    
+}
+
+section img {
+    max-width: 20%;
+    height: 200px; 
+    object-fit: contain; 
+    margin-bottom: 10px;
+    margin: 15px;
+display: block; }
+ 
+   section{
+    border: 5px  solid #453e3e;
+    border-radius: 40px;
+  padding: 15px 25px;
+ margin: 50px auto;
+ width: 1000px;
+ display: flex;
+    flex-wrap: wrap; 
+   }
+
+   #facebook{ width: 50px;}
+   #instagram{ width: 50px;}
+   #linkdin { width:  50px; }
+
+   .active{ background-color: white;}
+ 
+   ul{display: flex;
+    flex-wrap: wrap;
+    gap: 100PX;
+    justify-content: flex-end;
+    font-size: larger;
+}
+   header{
+    padding-top: 67px;padding-bottom: 67px;
+    
+    align-items: center;
+   }
+
+footer div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 30px;
+}   
+ 
+   #my-text{padding-bottom: 20px;
+    color: cyan;}
+
+#me{
+    padding-left: 375px;
+}
+header nav{text-decoration: block;}
